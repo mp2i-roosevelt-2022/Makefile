@@ -1,0 +1,1 @@
+CFLAGS := -g -Wall -Wextra -Wpedantic -std=c99 -fsanitize=address,undefined
